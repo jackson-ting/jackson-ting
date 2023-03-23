@@ -1,10 +1,12 @@
 <h1 align="center">🌱 Hi 👋  I'm Jackson! 🌱</h1>
 
+<!--
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jackson-ting&label=Profile%20views&color=41b883&style=flat" alt="jackson-ting" /></p>
 
 <img align="" width="50.5%" src="https://github-stats.liuli.lol/api?username=jackson-ting&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true" /> <img align="" width="45.4%" src="https://github-stats.liuli.lol/api/top-langs/?username=jackson-ting&layout=compact&theme=vue-dark" />
 
 <img align="" width="99.9%" src="https://github-readme-activity-graph.cyclic.app/graph?username=jackson-ting&theme=nord&color=41b883&point=41b883&hide_border=true&line=959598&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00" />
+-->
 
 <!--
 **jackson-ting/jackson-ting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
